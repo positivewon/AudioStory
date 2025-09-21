@@ -62,11 +62,11 @@ Extensive experiments show the superiority of AudioStory on both single-audio ge
 
 <table class="center">
 		<td><video src="https://github.com/user-attachments/assets/4089493c-2a26-4093-9709-0827c6dafcde"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/38339d5b-b96a-4ffd-8607-c94eb254beb6"></video></td>
+    <td><video src="https://github.com/user-attachments/assets/67fafed1-2547-49ba-afaa-75fc7f9d58ca"></video></td>
     <td><video src="https://github.com/user-attachments/assets/abbc9192-894c-49a2-9b55-8cc4852483c2"></video></td>
   <tr>
     <td><video src="https://github.com/user-attachments/assets/e62d0c09-cdf0-4e51-b550-0a2c23f8d68d"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/736d22ca-6636-4ef0-99f3-768e4dfb112a"></video></td>
+    <td><video src="https://github.com/user-attachments/assets/38339d5b-b96a-4ffd-8607-c94eb254beb6"></video></td>
     <td><video src="https://github.com/user-attachments/assets/f2f7c94c-7f72-4cc0-8edc-290910980b04"></video></td>
   <tr>
   <td><video src="https://github.com/user-attachments/assets/d3e58dd4-31ae-4e32-aef1-03f1e649cb0c"></video></td>
@@ -75,8 +75,7 @@ Extensive experiments show the superiority of AudioStory on both single-audio ge
 	<tr>
   <td><video src="https://github.com/user-attachments/assets/8931f428-dd4d-430f-9927-068f2912dd36"></video></td>
   <td><video src="https://github.com/user-attachments/assets/4f68199f-e48a-4be7-b6dc-1acb8d377a6e"></video></td>
-  <td><video src="https://github.com/user-attachments/assets/67fafed1-2547-49ba-afaa-75fc7f9d58ca"></video></td>
-  
+  <td><video src="https://github.com/user-attachments/assets/736d22ca-6636-4ef0-99f3-768e4dfb112a"></video></td>
   <tr>
 </table >
 
